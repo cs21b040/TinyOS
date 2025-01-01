@@ -1,0 +1,6 @@
+objects/*.o
+*.iso
+.vscode
+kernel
+.vscode
+OS.iso
